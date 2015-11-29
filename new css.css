@@ -1,0 +1,108 @@
+*{
+    font-family:'Calibri';
+}
+
+.navigator .nav{
+    background-color: #f7f7f7;
+}
+
+.navigator a{
+    color: dodgerblue;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 20px 20px;
+    text-transform: uppercase;
+}
+.navigator .nav button{
+    color: dodgerblue;
+    border: 1px solid dodgerblue;
+}
+
+.navigator .nav input{
+    border: 1px solid dodgerblue;
+}
+
+.navigator li{
+    display: inline;
+}
+
+.overview{
+    background-image:url('http://www.gallion.ch/images/Windows_computer_wallpaper5.jpg');
+    height: 500px;
+    background-position: center;
+    background-size: 100%;
+}
+
+.overview .front{
+    position: relative;
+    top: 150px;
+    margin-left: 150px;
+}
+.overview h1{
+    color: white;
+    font-family: sans-serif;
+    font-size: 70px;
+    font-weight: bold;
+}
+
+.overview p{
+    color: white;
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.furthermore {
+    margin-left: 150px;
+}
+.furthermore h2{
+    margin-top: 80px;
+    font-weight: bold;
+    color: dodgerblue;
+    font-size: 40px;
+}
+
+.furthermore p{
+    margin-bottom: 50px;
+    font-size: 20px;
+}
+.thumbnail{
+  border: 2px solid dodgerblue;
+}
+
+.btn-group button{
+    font-size: 18px;
+    color: dodgerblue;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.thumbnails {
+    border: none;
+}
+
+.thumbnails a{
+    margin-top: 20px;
+    background-color: #f7f7f7;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.thumbnails .btn {
+    font-size: 125%;
+}
+
+.learn-more {
+    font-size: 15px;
+    margin-top: 200px;
+    background-color: #f7f7f7;
+}
+
+.learn-more h3 {
+    font-family: 'Shift', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.learn-more a {
+    color: #00b0ff;
+}
